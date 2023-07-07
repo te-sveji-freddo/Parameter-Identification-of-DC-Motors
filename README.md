@@ -7,11 +7,11 @@ DC-motors are used in a wide variety of applications touching our daily lives, w
 # Typical DC motor parameters with units
 | Parameter   |      Unit      |  Value |
 |----------|:-------------:|------:|
-| R |  Ω | 0.19 |
-| L |    H   |   0.0005 |
-| k | Vs |    0.0323 |
-| J | kgm2 |    7.5e-5 |
-| kr | Nms |    2e-5 |
+| Ra |  Ω | 0.6 |
+| La |    mH   |   0.05 |
+| km | V*s/rad |    1.25 |
+| Jm | Kg*m^2 |    0.4 |
+| Bm | N*m/rad |    0.01 |
 
 # Datasheet example from Kollmorgen
 [Datasheet (download)](https://www.kollmorgen.com/en-us/products/catalogs/servodisc-catalog-en)
